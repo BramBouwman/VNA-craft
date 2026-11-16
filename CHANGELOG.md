@@ -1,15 +1,22 @@
 # Changelog
 
-Alle wijzigingen worden formeel en chronologisch vastgelegd. Versies volgen
-Semantic Versioning: `MAJOR.MINOR.PATCH`.
+Alle wijzigingen worden formeel en chronologisch vastgelegd. Versies volgen Semantic Versioning: `MAJOR.MINOR.PATCH`.
+
+## [0.3.2] - 2026-11-16
+
+### Documentation
+
+- Professionele repository-README toegevoegd met functies, installatie en gebruik.
+- Oudere releases ondergebracht in `archive/`.
+- Plugin-documentatie toegevoegd onder `plugins/`.
+- Repositorystructuur verduidelijkt voor collega-gebruikers.
 
 ## [0.3.1] - 2026-11-16
 
 ### Added
 
 - Een repositorybrede `.gitignore` toegevoegd.
-- Meetresultaten in `metingen/`, CSV-bestanden en Excel-bestanden worden niet
-  meer door Git gevolgd en kunnen dus niet per ongeluk worden geüpload.
+- Meetresultaten in `metingen/`, CSV-bestanden en Excel-bestanden worden niet meer door Git gevolgd en kunnen dus niet per ongeluk worden geüpload.
 - Lokale Python-cachebestanden en editorconfiguratie uitgesloten.
 - Versiebeheer toegevoegd via `VERSION`.
 
@@ -22,8 +29,7 @@ Semantic Versioning: `MAJOR.MINOR.PATCH`.
 ### Added
 
 - Optionele Qratio-workflow voor unloaded en loaded metingen.
-- Gemiddelde Q-berekening per fase en verhouding
-  `Qratio = unloaded / loaded`.
+- Gemiddelde Q-berekening per fase en verhouding `Qratio = unloaded / loaded`.
 
 ### Changed
 
