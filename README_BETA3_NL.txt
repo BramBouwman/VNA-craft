@@ -1,4 +1,4 @@
-VNA-Craft Beta 3
+VNA-Craft Beta 3 - versie 0.3.1
 
 Beta 3 is een visuele verbetering van Beta 1. De bestaande functies,
 meetlogica, VNA-koppeling, automatische opslag en knoppen zijn behouden.
@@ -15,6 +15,9 @@ Visuele verbeteringen:
 Start met start_vna_craft_beta3.bat.
 
 Beta 2 wordt niet als geslaagde versie beschouwd.
+
+Wijzigingen worden bijgehouden in [CHANGELOG.md](CHANGELOG.md).
+Versienummer: [VERSION](VERSION).
 
 Optionele Qratio-plugin
 Klik op `Start Qratio` om een begeleide tweefasenmeting te starten:

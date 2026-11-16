@@ -1,0 +1,15 @@
+# Measurement results and local exports
+metingen/
+qmax_headless.csv
+*.csv
+*.xlsx
+
+# Python local files
+__pycache__/
+*.py[cod]
+
+# Local editor and operating-system files
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
